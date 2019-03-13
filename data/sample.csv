@@ -1,0 +1,1001 @@
+id,name,country,city,price,date
+1,"Boa, mexican",Russia,Podgornoye,6142.89,2018-03-12
+2,Weeper capuchin,Sweden,Timrå,6665.13,2018-08-05
+3,American crow,Sweden,Stockholm,3424.52,2018-03-03
+4,"Zebra, common",South Korea,Koch'ang,499.09,2018-04-14
+5,"Cockatoo, red-breasted",China,Yengimahalla,5605.26,2018-10-14
+6,White-throated kingfisher,Thailand,Pho Thong,8999.82,2018-12-06
+7,Eastern fox squirrel,Russia,Plyussa,3980.93,2019-02-18
+8,Worm snake (unidentified),Czech Republic,Popovice,6922.33,2018-09-02
+9,"Hornbill, southern ground",Peru,Pataypampa,794.1,2018-06-05
+10,"Pheasant, common",Morocco,Arbaoua,8376.2,2018-11-13
+11,"Lizard, blue-tongued",Zimbabwe,Lalapanzi,7381.4,2018-07-22
+12,"Cockatoo, roseate",Saint Lucia,Canaries,190.64,2019-01-06
+13,"Squirrel, palm",France,Bordeaux,7802.68,2019-01-31
+14,"Lizard, goanna",Poland,Trzebinia,1066.67,2018-03-22
+15,Common pheasant,Indonesia,Gadon,9285.74,2018-09-26
+16,"Cockatoo, sulfur-crested",Poland,Ożarów,1465.92,2018-10-04
+17,Bottle-nose dolphin,Russia,Bronnitsy,6795.72,2018-08-23
+18,Javan gold-spotted mongoose,Argentina,Villa de Soto,9541.53,2018-06-25
+19,"Turkey, australian brush",Philippines,Santa Maria,4383.86,2018-03-26
+20,"Capuchin, brown",Jordan,Qīr Moāv,8950.24,2018-07-22
+21,Ant (unidentified),Philippines,Mayo,3475.93,2018-05-09
+22,Chameleon (unidentified),China,Xinsheng,8991.13,2018-06-23
+23,Blue catfish,Finland,Muhos,4580.12,2018-06-20
+24,Blue fox,Russia,Komsomol’sk,7241.17,2018-04-04
+25,Praying mantis (unidentified),Portugal,Ortiga,7140.87,2019-01-30
+26,Blue-faced booby,Portugal,Azinhal,7281.74,2018-03-18
+27,"Cobra, cape",United States,Milwaukee,5018.9,2018-09-15
+28,Dama wallaby,Ukraine,Lyubymivka,6961.23,2018-05-28
+29,"Bee-eater, carmine",Philippines,Norzagaray,9908.84,2018-05-02
+30,Black-tailed deer,Pakistan,Ghauspur,716.57,2018-04-28
+31,Indian jackal,China,Zhouhe,9580.87,2018-09-01
+32,Praying mantis (unidentified),Indonesia,Dinjo,8336.82,2018-08-23
+33,"Eagle, white-bellied sea",Ukraine,Kiev,4263.95,2018-09-17
+34,Brolga crane,Honduras,San José,3017.43,2018-07-16
+35,Pallas's fish eagle,China,Donglinxi,7056.62,2018-05-06
+36,Galapagos penguin,Greece,Agriá,5910.14,2018-11-27
+37,Aardwolf,China,Shichuan,3474.21,2018-06-11
+38,Cape raven,Iceland,Stykkishólmur,3682.74,2018-07-01
+39,Stone sheep,Venezuela,San Fernando Apure,7234.05,2018-05-03
+40,White-faced tree rat,Russia,Nogliki,6171.31,2018-05-03
+41,Topi,China,Shouzhan,7593.86,2018-11-01
+42,Marabou stork,Venezuela,Barinitas,504.83,2018-02-20
+43,"Macaque, pig-tailed",Israel,‘Arad,30.74,2018-09-26
+44,Ovenbird,Iran,Kāshān,8283.42,2018-07-05
+45,Mandras tree shrew,Ukraine,Nova Odesa,1444.68,2018-09-25
+46,"Iguana, common green",China,Dafengdui,9678.75,2018-08-03
+47,Blackbuck,Indonesia,Bulumulyo,1002.26,2018-12-27
+48,Barrows goldeneye,Russia,Pavlovsk,3948.45,2018-12-24
+49,"Spoonbill, european",France,Paris 08,5412.38,2018-04-13
+50,"Turkey, common",Brazil,Xique Xique,3401.86,2018-07-10
+51,"Gull, silver",China,Jianzhatan,9324.18,2018-09-03
+52,Galapagos dove,China,Dianshui,4481.12,2018-08-05
+53,"Wallaby, tammar",Ivory Coast,Tengrela,6001.94,2018-03-15
+54,"Snake, racer",Philippines,Marilao,6459.49,2018-03-22
+55,Reindeer,China,Yongledian,6762.56,2018-05-15
+56,Lapwing (unidentified),Portugal,Vendas de Galizes,4080.01,2018-05-25
+57,"Heron, black-crowned night",Honduras,La Lima,4989.13,2018-12-17
+58,"Chipmunk, least",Brazil,Águas Formosas,4518.1,2018-06-17
+59,Japanese macaque,Albania,Memaliaj,734.65,2019-02-01
+60,"Crow, pied",Ukraine,Kakhovka,2066.12,2018-02-24
+61,Red and blue macaw,Russia,Khadzhalmakhi,888.44,2018-07-22
+62,Red-capped cardinal,Czech Republic,Kostelec nad Černými Lesy,5046.79,2018-07-27
+63,Square-lipped rhinoceros,Portugal,Arcos de Valdevez,6871.04,2018-05-16
+64,"Squirrel, grey-footed",Haiti,Saint-Louis du Sud,6987.67,2018-11-28
+65,"Egret, great",Netherlands,Arnhem,6569.08,2018-09-07
+66,Eagle owl (unidentified),Philippines,Maluso,5743.46,2019-02-13
+67,"Kudu, greater",Philippines,Rizal,4186.17,2018-12-15
+68,"Dog, african wild",Indonesia,Oekefan,6329.92,2018-06-09
+69,Sambar,Portugal,Briteiros Santa Leocádia,2436.02,2018-12-04
+70,Great white pelican,Czech Republic,Černilov,9192.26,2018-03-14
+71,Great white pelican,Bulgaria,Svoge,753.91,2018-09-19
+72,"Dog, african wild",China,Dengfang,8679.19,2019-01-25
+73,"Bandicoot, long-nosed",China,Lijiang,8828.06,2019-01-27
+74,Blue racer,Poland,Ochojno,3118.35,2019-02-01
+75,"Raccoon, common",Portugal,Gondifelos,7364.85,2018-03-10
+76,Purple moorhen,Mexico,Obrera,132.92,2018-09-16
+77,Common genet,Russia,Admiralteisky,7313.81,2018-07-18
+78,"Lizard, frilled",Thailand,Kamalasai,5191.62,2018-08-17
+79,Common mynah,Brazil,Coronel Vivida,27.53,2018-03-17
+80,"Mynah, indian",China,Yanglin,8203.08,2018-03-31
+81,"Wallaby, river",Russia,Koygorodok,5539.61,2018-10-06
+82,"Swan, trumpeter",France,Toulouse,4218.29,2018-05-01
+83,Thirteen-lined squirrel,China,Banxi,3118.14,2018-03-17
+84,Greater roadrunner,China,Liulin,6198.98,2018-06-30
+85,"Wallaby, agile",China,Gar,9740.56,2018-04-22
+86,Large cormorant,China,Huangshi,4705.04,2018-05-12
+87,Magistrate black colobus,Finland,Karvia,3246.12,2018-08-25
+88,Eastern boa constrictor,Philippines,Pansoy,6112.07,2018-04-26
+89,"Cat, native",Philippines,Canaman,7534.11,2019-02-08
+90,Onager,Russia,Chumikan,8329.74,2018-09-28
+91,"Capuchin, brown",Colombia,Villa del Rosario,7848.26,2018-08-24
+92,Oribi,China,Xidajie,3535.53,2018-03-18
+93,"Racer, blue",Brazil,Cotia,974.01,2018-04-05
+94,Kafue flats lechwe,Brazil,Matriz de Camaragibe,1732.1,2018-06-25
+95,"Robin, kalahari scrub",United States,Sioux City,5783.8,2018-03-31
+96,"Capuchin, white-fronted",Portugal,Capela,52.7,2018-11-05
+97,Bat-eared fox,Cyprus,Psevdás,6864.2,2018-03-25
+98,"Rattlesnake, eastern diamondback",Brazil,Bragança Paulista,9665.93,2018-09-26
+99,Mexican wolf,Japan,Sobue,4398.02,2018-10-17
+100,"Python, carpet",Brazil,Garibaldi,2335.88,2018-08-12
+101,Eastern box turtle,Bulgaria,Chirpan,1818.23,2019-01-11
+102,Golden brush-tailed possum,Colombia,Yopal,6172.58,2018-06-23
+103,Waved albatross,Ireland,Askeaton,2865.04,2018-06-18
+104,Brazilian tapir,Thailand,Sung Noen,4556.22,2018-07-03
+105,European shelduck,China,Zhangjiayuan,1387.79,2019-01-03
+106,"Dragon, ornate rock",Philippines,Baganga,9362.04,2018-03-03
+107,Glossy starling (unidentified),Syria,Bayt Yāshūţ,8149.96,2018-11-16
+108,"Coatimundi, white-nosed",China,Huicheng,8085.97,2019-02-06
+109,Mourning collared dove,China,Shaxi,7458.41,2018-10-11
+110,"Otter, brazilian",Brazil,Catanduva,691.8,2018-11-27
+111,White-fronted capuchin,Russia,Kamenka,4378.73,2018-04-01
+112,Roe deer,Serbia,Jazovo,5196.24,2018-04-01
+113,Kafue flats lechwe,China,Changning,7762.91,2018-10-03
+114,"Turtle, snake-necked",China,Hekou,2389.02,2019-01-16
+115,"Pintail, bahama",Thailand,Khlong Khuean,5694.31,2019-02-17
+116,African wild cat,Portugal,Penha Longa,9238.69,2018-12-16
+117,Japanese macaque,China,Duma,6087.47,2019-01-12
+118,"Mongoose, yellow",China,Tongjiang,7651.29,2018-02-25
+119,Horned rattlesnake,Russia,Izvestkovyy,6196.87,2018-12-05
+120,Kaffir cat,Portugal,Vaiamonte,1781.18,2018-12-25
+121,Mountain goat,China,Taiping,9725.02,2018-05-12
+122,"Rhea, gray",South Korea,Wanju,9085.39,2018-04-02
+123,"Heron, gray",Portugal,Porta,6057.97,2019-01-04
+124,"Otter, brazilian",China,Hongcheng,4270.83,2018-02-22
+125,"Hawk-eagle, crowned",China,Hengjie,4803.4,2018-11-03
+126,"Barbet, black-collared",Portugal,Boucinhas,6060.88,2018-08-27
+127,Asiatic jackal,Thailand,Khao Kho,5103.44,2018-09-12
+128,"Elephant, asian",Russia,Serebryanyye Prudy,3130.13,2018-12-03
+129,Small-toothed palm civet,Indonesia,Loga,3861.53,2019-01-21
+130,Sockeye salmon,China,Shanshi,4489.59,2018-06-09
+131,"Fox, grey",China,Huangdi,8211.15,2018-10-22
+132,"Fox, arctic",China,Xinpu,6521.86,2018-09-12
+133,Madagascar fruit bat,Sweden,Stockholm,4376.99,2018-12-21
+134,Kori bustard,Philippines,Tanjay,5242.84,2019-01-16
+135,"Vulture, egyptian",Indonesia,Duwakkandung,2561.43,2018-09-29
+136,Sage hen,Pakistan,Baffa,5031.19,2019-01-09
+137,Javan gold-spotted mongoose,Indonesia,Jeponkrajan,2371.66,2018-03-18
+138,Ocelot,China,Tuanchengshan,944.47,2018-11-28
+139,Turtle (unidentified),Japan,Toride,5693.98,2018-04-29
+140,Vervet monkey,Russia,Niny,1652.15,2018-09-21
+141,Ostrich,Hungary,Ózd,3769.58,2018-07-07
+142,"Lapwing, southern",Canada,Pembroke,1935.55,2018-05-21
+143,Arctic lemming,Ireland,Birr,3819.12,2018-06-10
+144,"Fox, blue",Malaysia,Ipoh,7762.46,2018-08-19
+145,"Antelope, sable",Sweden,Göteborg,3832.65,2018-10-14
+146,"Cormorant, flightless",Russia,Shebunino,6313.96,2018-10-07
+147,Southern tamandua,China,Sifangxi,4159.1,2018-04-23
+148,"Dove, laughing",China,Gaoyao,9581.58,2018-08-12
+149,"Sheep, stone",Sweden,Borgholm,2885.05,2019-01-05
+150,Great kiskadee,Portugal,Corticeiro de Baixo,5245.97,2018-12-01
+151,"White-eye, pale",Uruguay,La Paloma,3723.67,2018-08-18
+152,Rufous-collared sparrow,Cameroon,Mbanga,1626.14,2018-03-05
+153,Green-winged macaw,Costa Rica,Pocora,7568.61,2018-09-21
+154,Lappet-faced vulture,Indonesia,Trenggulunan,1122.74,2018-11-25
+155,Python (unidentified),China,Jinzhou,7203.72,2018-03-22
+156,"Fox, grey",Indonesia,Karangasem,1599.6,2018-10-28
+157,Fairy penguin,Colombia,Margarita,4834.31,2018-10-04
+158,Lesser masked weaver,Denmark,København,3631.99,2019-01-10
+159,"Capuchin, white-fronted",Netherlands,IJmuiden,7537.32,2018-10-10
+160,Two-toed sloth,Portugal,Manique,7504.49,2018-02-21
+161,"Colobus, white-mantled",China,Fangqiang,7073.74,2018-09-27
+162,Lilac-breasted roller,Belarus,Kamyanyuki,7330.13,2018-03-08
+163,Barasingha deer,France,Creil,5009.76,2018-07-09
+164,"Skunk, striped",Malaysia,Ipoh,3134.26,2018-04-07
+165,Long-nosed bandicoot,Russia,Kamyshin,2433.79,2018-07-23
+166,Malay squirrel (unidentified),Canada,Fermont,656.88,2019-01-20
+167,"Boar, wild",Japan,Obita,2126.15,2018-11-03
+168,American buffalo,France,Bressuire,6943.37,2018-05-01
+169,"Deer, savannah",China,Da’ao,2153.29,2018-04-15
+170,"Waterbuck, common",China,Kanshi,4002.08,2018-12-18
+171,Masked booby,Brazil,Pederneiras,4573.88,2018-12-14
+172,Asian false vampire bat,Bulgaria,Chirpan,8809.11,2018-03-03
+173,Yellow-throated sandgrouse,Portugal,Ferraria,5129.01,2018-11-10
+174,"Albatross, galapagos",Czech Republic,Police nad Metují,9213.11,2018-07-14
+175,Collared lemming,China,Xingshou,2797.72,2019-01-26
+176,Great cormorant,Greece,Palaiochóri,219.75,2018-03-10
+177,Frog (unidentified),China,Panshan,8270.54,2018-03-05
+178,American black bear,Indonesia,Rupe,1790.32,2018-07-30
+179,Waved albatross,Ukraine,Stetseva,8294.84,2018-08-22
+180,Gambel's quail,Afghanistan,Barg-e Matāl,2754.29,2018-06-13
+181,Roe deer,Indonesia,Juranalas,7774.76,2018-05-22
+182,"Bird, red-billed tropic",Russia,Kharlu,2953.96,2018-10-15
+183,Common raccoon,Morocco,Bzou,4203.05,2018-06-08
+184,American marten,Indonesia,Krajan,7901.51,2018-09-30
+185,Slender loris,Sweden,Linköping,3404.1,2018-06-19
+186,Rufous tree pie,United States,Minneapolis,9901.87,2018-07-17
+187,Steenbuck,Brazil,Cordeiro,3595.91,2018-04-07
+188,Banded mongoose,Japan,Hatsukaichi,3578.06,2019-02-19
+189,"Crab, red lava",Indonesia,Oehaunu,6865.79,2018-12-29
+190,Koala,Croatia,Viškovci,8111.23,2018-05-13
+191,"Phalarope, red-necked",Indonesia,Sijunjung,8655.09,2018-08-23
+192,Ring dove,Faroe Islands,Vestmanna,1444.38,2018-04-13
+193,Gray duiker,Argentina,Yerba Buena,7805.67,2019-02-12
+194,Swainson's francolin,China,Danzao,917.4,2018-09-07
+195,"Crane, brolga",China,Jieshi,3966.05,2018-09-27
+196,Barasingha deer,China,Aotou,5222.78,2018-10-20
+197,"Antelope, sable",United States,Atlanta,6354.26,2018-04-25
+198,African snake (unidentified),Indonesia,Wonodadi,5499.93,2018-10-14
+199,"Ass, asiatic wild",Finland,Kajaani,3100.2,2019-02-08
+200,Sidewinder,Indonesia,Suwaluh,8463.18,2018-12-11
+201,Cape white-eye,Mongolia,Holboo,6452.02,2018-10-04
+202,"Bear, black",Portugal,Corvite,5952.04,2018-08-22
+203,Black-throated cardinal,Bosnia and Herzegovina,Varoška Rijeka,6386.88,2018-12-23
+204,Mallard,Croatia,Krapina,6276.1,2018-06-05
+205,"Stork, openbill",Russia,Bilyarsk,8470.37,2018-10-23
+206,"Badger, honey",Philippines,Villaviciosa,6245.89,2018-04-22
+207,Thirteen-lined squirrel,Ireland,Ballinteer,3032.77,2018-08-11
+208,"Eland, common",Kyrgyzstan,Iradan,5064.84,2018-06-03
+209,"Skink, blue-tongued",Peru,Huancapi,5461.48,2018-04-19
+210,"Deer, mule",Portugal,Carrascal,5304.42,2019-01-31
+211,Snowy sheathbill,Brazil,Campos do Jordão,2579.41,2018-06-30
+212,Sandhill crane,Greece,Korydallós,1839.1,2018-06-07
+213,"Tortoise, galapagos",Indonesia,Neofbaun,9485.68,2018-06-28
+214,Orca,Brazil,Passa Quatro,5500.92,2018-02-25
+215,Southern boubou,Hungary,Budapest,7018.23,2018-05-26
+216,Southern lapwing,France,Guéret,9753.95,2018-05-14
+217,Coqui partridge,Indonesia,Karangpete,5447.08,2019-02-18
+218,"Fox, blue",China,Yangxu,7919.53,2018-08-10
+219,"Squirrel, african bush",Colombia,Bogotá,8374.27,2018-03-05
+220,"Peccary, collared",Czech Republic,Častolovice,2777.19,2019-02-13
+221,"Buffalo, american",China,Liupai,2784.28,2018-07-09
+222,Pampa gray fox,China,Dagang,283.14,2019-02-03
+223,"Crane, black-crowned",Greece,Korydallós,6917.46,2018-06-23
+224,"Buffalo, wild water",Israel,Beit Horon,9185.13,2018-05-11
+225,Red-cheeked cordon bleu,Malawi,Blantyre,2700.76,2018-12-14
+226,Laughing kookaburra,Russia,Shagonar,7227.51,2018-12-25
+227,"Whale, baleen",Russia,Velikiy Ustyug,9344.2,2018-05-14
+228,Small-spotted genet,Japan,Nakano,3465.15,2018-08-04
+229,"Wolf, common",China,Bailizhou,3361.87,2018-07-13
+230,Raccoon dog,Indonesia,Atambua,4959.99,2018-03-17
+231,Striped dolphin,Indonesia,Kotadukuh,352.11,2018-02-27
+232,"Owl, madagascar hawk",China,Qilong,2601.31,2018-08-13
+233,"Tortoise, desert",Poland,Czerniewice,8931.05,2018-08-11
+234,Mourning collared dove,Czech Republic,Cheb,9938.17,2018-07-18
+235,"Monkey, red howler",Czech Republic,Konice,4770.13,2018-06-18
+236,Golden brush-tailed possum,Brazil,Bayeux,5477.67,2019-02-02
+237,"Stork, european",Argentina,San Fernando del Valle de Catamarca,2947.41,2018-09-09
+238,Sockeye salmon,Philippines,Casisang,5875.66,2018-10-21
+239,Lesser mouse lemur,United States,Kissimmee,5998.27,2018-04-10
+240,"Goose, snow",China,Sanlicheng,8051.12,2018-12-07
+241,"Elk, Wapiti",Philippines,San Miguel,943.97,2018-04-01
+242,Hanuman langur,Ukraine,Mospyne,8580.58,2019-01-04
+243,"Squirrel, malabar",Canada,Merritt,7921.28,2018-06-25
+244,Black-throated butcher bird,Zimbabwe,Redcliff,2284.31,2018-04-01
+245,"Wombat, southern hairy-nosed",China,Tunguang,5302.48,2018-04-09
+246,"Colobus, magistrate black",Thailand,Ron Phibun,7608.27,2018-08-23
+247,"Bear, sloth",China,Karmai,7674.56,2018-08-09
+248,Northern elephant seal,Eritrea,Dek’emhāre,933.21,2019-01-11
+249,Brush-tailed bettong,Japan,Marugame,5895.76,2018-10-08
+250,"Cormorant, flightless",Iran,Arāk,8688.46,2018-03-17
+251,"Bird, magnificent frigate",Afghanistan,Qala i Naw,7399.26,2018-10-18
+252,"Bustard, denham's",Indonesia,Labuhantanggabesar,9412.86,2019-01-05
+253,"Stork, european",China,Jiangwang,1452.96,2018-10-21
+254,"Possum, ring-tailed",Argentina,General Lavalle,1486.17,2018-05-17
+255,Nubian bee-eater,Brazil,João Pessoa,3893.22,2018-09-13
+256,"Booby, blue-footed",China,Axili,4124.24,2018-06-25
+257,"Gecko, bent-toed",Tanzania,Ilembula,2585.36,2018-11-21
+258,Argalis,Indonesia,Cendagah,6724.52,2018-09-03
+259,Burmese brown mountain tortoise,Brazil,Limoeiro do Ajuru,6057.04,2018-12-10
+260,"Skua, great",China,Hufeng,9846.17,2018-07-09
+261,Snow goose,Thailand,Kut Chap,1003.85,2018-12-04
+262,Western pygmy possum,Panama,Cañazas,1847.95,2018-03-18
+263,Australian sea lion,Indonesia,Palampal,2519.35,2018-10-02
+264,"Ibis, puna",China,Xiaoguan,475.15,2018-11-30
+265,Blue crane,Indonesia,Cigintung,1277.91,2018-10-23
+266,Fat-tailed dunnart,Portugal,Quintão,279.04,2018-11-02
+267,Kinkajou,Argentina,Río Ceballos,4720.55,2018-03-30
+268,Indian porcupine,Russia,Pokhvistnevo,4410.95,2018-09-24
+269,"Goose, greylag",Russia,Leninskoye,5056.11,2018-08-03
+270,Openbill stork,China,Heshan,8164.94,2018-06-19
+271,"Civet, small-toothed palm",Poland,Fordon,6000.61,2018-11-17
+272,Common wombat,Philippines,Mabasa,6614.33,2018-10-25
+273,Jungle cat,South Africa,Mankoeng,8631.33,2018-05-15
+274,Sambar,China,Nanmu,3949.75,2018-07-14
+275,Weeper capuchin,China,Zhongfeng,4785.57,2019-02-03
+276,Tiger cat,China,Qingguang,1626.0,2018-09-27
+277,"Cormorant, javanese",Canada,Labrador City,2347.7,2018-08-02
+278,African polecat,Poland,Trzciana,1330.83,2019-01-04
+279,Glossy starling (unidentified),Greece,Kokkári,3454.04,2018-05-29
+280,"Blackbird, red-winged",Canada,Beausejour,2397.99,2018-06-07
+281,"Camel, dromedary",China,Duyun,1388.76,2018-03-23
+282,Purple grenadier,Russia,Tsotsin-Yurt,6509.94,2018-06-10
+283,"Rabbit, eastern cottontail",China,Dongqu,4121.57,2018-08-14
+284,Bushbuck,Philippines,San Andres,8045.87,2018-09-30
+285,"Eagle, bateleur",Philippines,Bitanjuan,7120.83,2018-02-24
+286,"Fox, cape",Portugal,Castelo,3076.83,2018-03-13
+287,Koala,Indonesia,Sukorejo,7396.2,2018-05-15
+288,White-cheeked pintail,Japan,Hirosaki,6849.36,2018-11-01
+289,Least chipmunk,Czech Republic,Velké Němčice,3350.78,2018-07-18
+290,Giant otter,Poland,Słupno,7749.76,2018-05-19
+291,"Oystercatcher, blackish",Philippines,Calasgasan,7603.81,2018-10-23
+292,Onager,China,Changhe,5370.02,2018-08-24
+293,"Zorro, common",Sweden,Hägersten,1873.06,2018-06-27
+294,White-nosed coatimundi,Vietnam,Thị Trấn Nho Quan,4365.57,2018-04-06
+295,"Raccoon, common",Philippines,Maco,4118.33,2018-08-04
+296,"Eagle, white-bellied sea",China,Maoyang,7826.18,2018-11-14
+297,Giant anteater,Iran,Mīāndoāb,5548.67,2018-05-31
+298,"Gull, swallow-tail",Finland,Viitasaari,9062.36,2018-11-14
+299,Gray rhea,Portugal,Mouriscas,6393.32,2018-03-30
+300,"Boubou, southern",Egypt,Kafr Şaqr,7273.88,2019-02-18
+301,Stanley crane,China,Jiasi,9440.91,2018-10-18
+302,Guerza,China,Chengnan,6706.82,2018-10-07
+303,Black vulture,France,Avallon,596.91,2018-04-14
+304,American alligator,Argentina,El Arañado,4764.0,2018-09-13
+305,"Lynx, african",Sri Lanka,Valvedditturai,6903.98,2018-09-03
+306,"Dolphin, striped",Philippines,Sapadun,1540.53,2018-12-12
+307,Honey badger,Philippines,Pandasan,6982.86,2018-08-11
+308,"Trotter, lily",Botswana,Selebi-Phikwe,1382.63,2018-07-19
+309,"Hoopoe, eurasian",Czech Republic,Žirovnice,722.09,2018-02-23
+310,Prehensile-tailed porcupine,Indonesia,Hoi,7861.06,2019-02-13
+311,"Quail, gambel's",Sweden,Lycksele,6216.33,2019-02-13
+312,"Heron, boat-billed",Russia,Khvalovo,8624.63,2018-05-06
+313,"Rat, white-faced tree",Egypt,Sohag,1468.16,2018-12-11
+314,Eastern indigo snake,China,Qinxi,2164.01,2018-06-30
+315,Black rhinoceros,Indonesia,Jatisari,6803.53,2018-07-22
+316,"Macaque, bonnet",China,Shiwan,6844.23,2018-12-07
+317,Cottonmouth,Macedonia,Negotino,4175.13,2018-04-16
+318,"Snake, racer",Azerbaijan,Qobustan,7676.49,2019-01-22
+319,"Porcupine, tree",Russia,Rameshki,3608.41,2018-12-26
+320,Whip-tailed wallaby,Philippines,Can-Avid,9775.95,2018-03-08
+321,Tiger cat,Nepal,Kathmandu,4115.3,2019-01-02
+322,"Grouse, greater sage",Tanzania,Kintinku,1925.8,2019-01-01
+323,"Heron, boat-billed",Japan,Akune,2054.56,2018-08-22
+324,"Zebra, common",Ethiopia,Korem,6733.36,2018-05-19
+325,Llama,France,Annecy,123.54,2018-03-04
+326,"Badger, european",Libya,Ajdabiya,9150.2,2018-04-08
+327,"Darter, african",China,Geshan,9922.83,2018-08-05
+328,"Sandpiper, spotted wood",Malaysia,Kuala Lumpur,9141.25,2018-07-06
+329,Kalahari scrub robin,Czech Republic,Horní Čermná,7800.56,2018-03-12
+330,Nyala,Philippines,Guintubhan,8436.7,2018-06-07
+331,Western palm tanager (unidentified),Cambodia,Siem Reap,7173.85,2018-10-16
+332,"Spider, wolf",Indonesia,Segoro,2719.11,2018-03-17
+333,Frilled lizard,China,Qiancheng,6659.6,2018-04-30
+334,"Thrasher, curve-billed",China,Fengniancun,2111.19,2018-08-15
+335,Roseat flamingo,Indonesia,Dukuhsia,7282.92,2018-11-17
+336,"Dog, bush",Armenia,Metsavan,9708.56,2018-11-06
+337,"Stork, saddle-billed",China,Xi’an,1295.52,2018-02-28
+338,Red-winged hawk (unidentified),Indonesia,Siumate,8059.15,2018-12-29
+339,Moose,Russia,Sal’sk,5088.02,2019-02-15
+340,"Bustard, denham's",Morocco,Mohammedia,862.97,2018-03-05
+341,"Lizard, collared",China,Fengsheng,9241.78,2018-06-18
+342,"Wagtail, african pied",Malawi,Mangochi,1084.18,2018-04-10
+343,Salmon pink bird eater tarantula,China,Shuangtang,138.65,2018-10-31
+344,"Waxbill, violet-eared",Sweden,Linköping,8387.37,2018-11-15
+345,Stone sheep,Cayman Islands,East End,5974.26,2018-09-30
+346,"Quail, gambel's",France,Bobigny,6547.44,2019-02-08
+347,"Penguin, fairy",China,Yantan,4979.5,2018-03-27
+348,Bush dog,Canada,Richibucto,9216.04,2018-11-24
+349,"Quoll, eastern",Russia,Medvedok,7737.55,2018-06-13
+350,"Gull, dusky",Greece,Ágio Pnévma,9379.84,2019-02-10
+351,Hudsonian godwit,Ethiopia,Jinka,3924.93,2018-08-17
+352,"Tern, white-winged",Cyprus,Léfka,3742.73,2018-07-18
+353,"Crane, black-crowned",Indonesia,Cukanguncal,2486.15,2019-01-31
+354,"Bear, american black",Peru,Cayara,2134.98,2018-08-16
+355,South American meadowlark (unidentified),Russia,Makarov,8926.29,2018-05-17
+356,Silver-backed fox,China,Huangchi,7173.55,2019-01-22
+357,Malachite kingfisher,Colombia,La Uvita,7325.52,2018-11-09
+358,Black vulture,Azerbaijan,Zabrat,4117.33,2019-01-29
+359,Antelope ground squirrel,Sweden,Mariestad,8066.24,2018-12-06
+360,Arctic lemming,China,Tanqiao,548.79,2018-05-06
+361,Snowy egret,United States,Oklahoma City,4480.23,2018-08-05
+362,"Starling, greater blue-eared",Thailand,Lao Suea Kok,401.68,2019-01-06
+363,Bahama pintail,Norway,Oslo,2956.06,2018-10-19
+364,"Macaque, bonnet",China,Zhongnan,8881.06,2018-07-30
+365,Bush dog,China,Yuanling,9045.76,2018-09-18
+366,Black-necked stork,China,Lezhu,7300.28,2018-05-25
+367,Impala,Yemen,Al Miftāḩ,6029.18,2018-09-29
+368,Mule deer,China,Fengdian,9926.6,2018-04-18
+369,"Chickadee, black-capped",China,Tianxingchang,1464.96,2018-08-20
+370,Kafue flats lechwe,Guatemala,Cuyotenango,5019.25,2018-05-19
+371,"Alligator, american",Czech Republic,Lukavec,447.94,2018-02-28
+372,"Sheep, stone",Indonesia,Tarikolot,2453.06,2019-01-26
+373,Cape cobra,Pakistan,Khārān,2456.45,2018-03-12
+374,Sockeye salmon,Czech Republic,Fryčovice,4481.62,2018-12-13
+375,"Lion, mountain",Japan,Iwakura,371.45,2018-06-25
+376,Sidewinder,Philippines,Libertad,4490.34,2018-02-23
+377,Little brown bat,Russia,Staryy Urukh,1543.56,2018-10-19
+378,"Pelican, great white",Japan,Naka,6403.66,2018-06-08
+379,"Monkey, rhesus",Zambia,Mwinilunga,2853.82,2018-06-17
+380,Little grebe,Ecuador,Salinas,5249.38,2018-09-20
+381,Spotted wood sandpiper,Philippines,Sankanan,1480.07,2019-02-03
+382,Rhesus macaque,China,Changting,9124.5,2019-01-17
+383,Sugar glider,Portugal,Castanheira,2127.98,2018-08-06
+384,Fringe-eared oryx,United States,Huntsville,9773.29,2018-12-08
+385,"Gull, lava",China,Jiaohu,1014.01,2019-01-11
+386,Common raccoon,Indonesia,Pekuncen,2516.83,2018-03-17
+387,"Skua, long-tailed",Indonesia,Waru Selatan,6568.76,2018-11-06
+388,Pied cormorant,China,Purong,8641.26,2018-07-22
+389,"Rhea, common",Dominican Republic,Cambita Garabitos,5541.94,2019-02-02
+390,"Iguana, marine",China,Wulan,1946.57,2018-07-17
+391,Bottle-nose dolphin,Greece,Lávara,6867.23,2018-10-15
+392,"Falcon, prairie",Serbia,Jagodina,6988.32,2018-09-30
+393,Galapagos albatross,China,Hujiaying,1176.6,2018-10-25
+394,Great kiskadee,Philippines,Bulawin,6904.0,2018-11-14
+395,"Kingfisher, white-throated",France,Saint-Quentin-en-Yvelines,5066.54,2018-09-06
+396,"Skua, great",Morocco,Galaz,5286.11,2019-02-06
+397,"Badger, honey",Italy,Messina,645.22,2018-04-24
+398,Red-tailed phascogale,Albania,Elbasan,2736.45,2018-06-16
+399,Eastern cottontail rabbit,China,Gulonggang,1124.42,2018-06-28
+400,Greater sage grouse,Russia,Zakan-Yurt,3141.77,2019-02-07
+401,White stork,Greece,Kalloní,2217.86,2018-05-18
+402,Pale-throated three-toed sloth,U.S. Virgin Islands,Saint Croix,9116.54,2018-11-30
+403,Ground legaan,China,Shangmofang,8500.04,2018-09-19
+404,Grey-footed squirrel,Sweden,Nynäshamn,7953.36,2018-09-28
+405,"Stork, white-necked",Thailand,Sahatsakhan,6536.77,2018-05-01
+406,"Boa, cook's tree",Sweden,Umeå,5482.0,2018-05-10
+407,"Squirrel, eastern fox",Mauritius,Bel Air Rivière Sèche,4527.52,2018-09-10
+408,Blue-breasted cordon bleu,Mexico,Guadalupe,3618.47,2018-07-06
+409,Dromedary camel,Indonesia,Tonggoh,3135.44,2018-04-21
+410,"Badger, eurasian",Somalia,Baardheere,8788.21,2018-06-15
+411,"Gecko, tokay",Philippines,Nanyo,3427.15,2018-04-08
+412,"Pintail, white-cheeked",China,Cihua,5632.16,2018-10-26
+413,Springbok,Albania,Guri i Zi,1183.1,2018-02-23
+414,Silver-backed fox,Vietnam,Da Nang,5761.44,2018-09-17
+415,African lynx,Russia,Yalkhoy-Mokhk,7344.51,2018-10-10
+416,Eastern dwarf mongoose,Indonesia,Karangpocok,5133.06,2018-06-15
+417,"Tamandua, southern",Indonesia,Dresi Wetan,5444.64,2018-09-01
+418,African buffalo,Luxembourg,Boulaide,5549.47,2018-08-22
+419,Old world fruit bat (unidentified),China,Haiyan,6149.24,2018-05-08
+420,"Possum, western pygmy",Philippines,Teresa,8372.63,2019-01-25
+421,"Cockatoo, red-breasted",Syria,Jablah,6452.37,2018-04-07
+422,"Snake, western patch-nosed",Serbia,Knjazevac,1002.71,2018-12-02
+423,"Vulture, oriental white-backed",Philippines,Cabarroguis,177.86,2018-12-26
+424,"Barbet, crested",Macedonia,Centar Župa,3275.98,2018-03-02
+425,"Goose, canada",Sweden,Norsborg,1178.82,2018-12-16
+426,"Skua, great",France,Mont-Saint-Aignan,5107.95,2018-10-19
+427,"Roadrunner, greater",United States,Trenton,6931.58,2018-05-09
+428,Amazon parrot (unidentified),France,Beauvais,4053.7,2019-01-16
+429,"Eagle, bateleur",Brazil,São Paulo de Olivença,6915.61,2018-07-27
+430,Campo flicker,Guatemala,Champerico,4331.4,2018-11-08
+431,Red meerkat,Indonesia,South Tangerang,3701.77,2018-11-04
+432,Mexican beaded lizard,Poland,Plewiska,9965.67,2018-06-29
+433,"Brocket, brown",China,Shigu,8023.84,2019-02-05
+434,"Rhinoceros, black",China,Nanyang,3025.68,2018-09-25
+435,"Penguin, magellanic",Iran,Rehnān,4075.16,2018-12-26
+436,Arctic hare,Indonesia,Oenopu,1453.26,2018-11-09
+437,Western lowland gorilla,Indonesia,Bantarsari Kulon,4079.56,2019-01-21
+438,Black-throated butcher bird,Mexico,Rafael Hernandez Ochoa,5743.31,2018-07-03
+439,"Hornbill, red-billed",China,Daping,3168.19,2018-06-06
+440,Common seal,Russia,Borovoy,9765.32,2018-12-30
+441,Bontebok,Russia,Bylym,3635.19,2018-07-14
+442,"Weaver, lesser masked",Brazil,Cordeirópolis,7097.24,2019-01-29
+443,Black-footed ferret,Ukraine,Zaporizhzhya,6628.33,2019-01-01
+444,Llama,Brazil,Piúma,1252.95,2018-10-17
+445,Sally lightfoot crab,Bangladesh,Shibganj,2011.96,2018-11-29
+446,"Toucan, white-throated",Portugal,Linhó,8755.64,2019-01-09
+447,Gemsbok,Vietnam,Bồng Sơn,1447.78,2018-06-05
+448,"Rat, white-faced tree",China,Karakabak,2893.47,2018-05-30
+449,"Jackal, golden",Denmark,København,2649.94,2018-07-22
+450,Openbill stork,Philippines,Katipunan,2469.69,2018-11-16
+451,Onager,Canada,Saint-Bruno,1993.74,2019-02-10
+452,Crested barbet,Tajikistan,Konibodom,4304.27,2018-08-18
+453,Mountain lion,Philippines,Naval,7241.84,2018-09-22
+454,Bateleur eagle,Jamaica,New Kingston,7205.22,2018-08-04
+455,"Vulture, white-headed",Poland,Łaskarzew,2940.0,2018-09-17
+456,"Racer, blue",United States,New York City,3341.38,2018-10-31
+457,Southern elephant seal,China,Yanhe,5555.87,2019-02-01
+458,Antelope ground squirrel,Belarus,Pyetrykaw,1529.42,2019-02-07
+459,Cattle egret,Thailand,Tha Maka,6871.86,2018-03-03
+460,"Turaco, violet-crested",Qatar,Al Jumaylīyah,4708.26,2018-12-09
+461,Crimson-breasted shrike,China,Shantou,2573.72,2019-02-12
+462,Cereopsis goose,United States,Clearwater,9379.98,2018-09-22
+463,Common goldeneye,Mozambique,Lichinga,8851.26,2018-09-27
+464,Tyrant flycatcher,Bolivia,Cliza,5157.97,2018-11-20
+465,White-browed owl,Russia,Olovyannaya,8294.07,2018-12-16
+466,"Seal, northern elephant",Indonesia,Bojonggenteng,4513.1,2019-01-07
+467,"Lapwing, southern",China,Jiahu,7441.21,2018-11-29
+468,"Partridge, coqui",Indonesia,Maliang,5107.07,2018-06-13
+469,Cape wild cat,China,Kuilehe,3887.4,2018-04-09
+470,"Chipmunk, least",Indonesia,Cikarang,8136.42,2018-07-12
+471,Blue waxbill,Indonesia,Bonebone,3836.62,2019-02-02
+472,Pine squirrel,Peru,San Lorenzo,1812.55,2018-04-21
+473,Tarantula,Japan,Ōfunato,834.03,2018-11-01
+474,"Penguin, magellanic",Indonesia,Susunan,3761.65,2018-08-07
+475,Yellow-necked spurfowl,Poland,Niechanowo,7612.54,2018-12-12
+476,"Cockatoo, sulfur-crested",Palestinian Territory,Zaytā Jammā‘īn,3912.62,2019-02-02
+477,Brush-tailed rat kangaroo,Philippines,Nangka,7635.31,2018-07-18
+478,Pig-tailed macaque,Kenya,Konza,5631.03,2018-10-02
+479,King cormorant,Seychelles,Anse Royale,7275.91,2018-08-29
+480,Common seal,South Africa,Lydenburg,523.68,2018-04-23
+481,Turtle (unidentified),Uganda,Amuru,9962.43,2019-01-13
+482,"Macaw, green-winged",Russia,Severo-Zadonsk,7459.81,2019-01-30
+483,American alligator,United States,Atlanta,8656.68,2018-12-23
+484,Striped hyena,China,Dapo,2063.45,2018-05-23
+485,Pine snake (unidentified),United Kingdom,London,7459.96,2018-03-26
+486,"Starling, superb",Philippines,Esperanza,3275.75,2019-01-08
+487,"Cobra, cape",Indonesia,Bokor,4919.98,2018-09-04
+488,"Bulbul, african red-eyed",Poland,Herby,2482.93,2018-08-16
+489,Common melba finch,Philippines,Burgos,641.95,2018-07-11
+490,"Pelican, eastern white",Poland,Januszkowice,4063.18,2018-04-10
+491,"Goldeneye, common",United Kingdom,Glasgow,6838.35,2018-11-13
+492,Burchell's gonolek,Brazil,Rio Branco,9082.64,2018-12-05
+493,Little brown dove,Yemen,Ad Dimnah,6201.52,2018-08-19
+494,"Bustard, kori",Argentina,Charata,8229.96,2018-05-24
+495,"Possum, pygmy",South Korea,Icheon-si,1111.57,2018-03-09
+496,"Lorikeet, scaly-breasted",Syria,Al Ḩarāk,1677.86,2018-12-29
+497,"Crane, sarus",Philippines,Monkayo,6329.41,2018-12-17
+498,"Duiker, common",Malta,Sliema,1396.94,2018-12-06
+499,Northern phalarope,Uruguay,Cerro Colorado,5392.64,2018-11-06
+500,Canadian tiger swallowtail butterfly,China,Huifeng,5277.11,2018-10-06
+501,"Cormorant, pied",Indonesia,Sorongan,5404.8,2018-07-12
+502,Long-tailed jaeger,Uruguay,Mercedes,3507.68,2018-05-12
+503,"Pintail, bahama",Greece,Diavatós,8456.85,2018-12-22
+504,Baleen whale,China,Xihuachi,3241.1,2018-04-04
+505,"Otter, african clawless",Philippines,Clarin,9504.77,2018-06-14
+506,"Lorikeet, scaly-breasted",Russia,Koz’modem’yansk,1631.23,2019-02-18
+507,Alpaca,Armenia,Goght’,3408.59,2019-01-14
+508,European wild cat,Bolivia,Pocpo,954.64,2018-05-01
+509,"Stork, painted",Colombia,Bello,9931.88,2018-05-05
+510,Yellow-rumped siskin,Kazakhstan,Ilyich,940.63,2018-07-17
+511,Little blue penguin,Japan,Tenri,8337.9,2018-04-24
+512,Barrows goldeneye,Peru,San Carlos,1332.38,2018-05-07
+513,Vine snake (unidentified),Libya,Awjilah,9788.22,2018-11-13
+514,Raccoon dog,China,Heshang,172.15,2018-11-22
+515,Guanaco,Philippines,San Juan,996.01,2018-03-12
+516,Oribi,Ukraine,Zagnitkiv,9250.9,2018-10-29
+517,"Lemur, ring-tailed",Albania,Burrel,5427.67,2018-03-14
+518,"Gazelle, grant's",North Korea,Namp’o,1979.66,2018-09-25
+519,Black and white colobus,New Zealand,Timaru,9845.25,2018-10-12
+520,Arctic lemming,Greece,Argalastí,2121.12,2018-10-05
+521,Wild water buffalo,Portugal,Ribeiro,9724.02,2018-11-23
+522,"White-eye, pale",Yemen,Al Ḩarajah,8054.9,2018-04-16
+523,"Dove, white-winged",Japan,Suita,7885.79,2018-06-10
+524,Common ringtail,Brazil,Teófilo Otoni,7892.13,2018-11-26
+525,"Egret, cattle",Argentina,Federal,1543.81,2018-11-04
+526,Mara,China,Zhaoxiang,3014.01,2018-10-24
+527,"Goose, knob-nosed",Syria,Medaya,3497.47,2018-10-19
+528,"Tortoise, galapagos",Bahrain,Manama,4739.59,2018-12-22
+529,Madagascar fruit bat,Colombia,Palmira,5121.11,2018-02-27
+530,Malabar squirrel,Indonesia,Pengilon,9907.75,2019-02-19
+531,"Gull, dusky",China,Lanhe,5453.77,2018-06-22
+532,"Turtle, long-necked",Kyrgyzstan,Gul’cha,4349.98,2018-09-26
+533,Onager,Brazil,Bandeirantes,5827.81,2018-03-05
+534,"Snake, carpet",France,Vienne,3044.08,2019-02-03
+535,Ovenbird,Togo,Kpalimé,4256.88,2018-09-28
+536,"Porcupine, crested",Russia,Salmi,8677.28,2018-09-07
+537,Yellow-brown sungazer,Brazil,Palmas,3195.38,2019-01-19
+538,Australian brush turkey,China,Guihuaquan,7906.24,2018-06-09
+539,Eastern dwarf mongoose,Guatemala,Huitán,3038.51,2018-02-24
+540,Griffon vulture,China,Huxiaoqiao,614.31,2018-08-06
+541,Steller sea lion,China,Bieligutai,464.25,2018-05-08
+542,"Otter, north american river",Russia,Lotoshino,4157.48,2018-11-18
+543,Oriental white-backed vulture,Pakistan,Jamshoro,8334.69,2018-09-09
+544,Gray duiker,Haiti,Port-au-Prince,1216.81,2018-09-25
+545,"Owl, australian masked",Albania,Sevaster,5416.94,2019-01-14
+546,"Goldeneye, common",Brazil,Nova Era,200.84,2018-10-23
+547,Mallard,China,Heimahe,887.15,2019-01-21
+548,"Sheep, american bighorn",Morocco,Zinat,7305.15,2018-06-07
+549,White-faced tree rat,Belarus,Kryvichy,4459.15,2019-02-19
+550,"Marten, american",Ukraine,Oleksandriya,3201.39,2019-01-11
+551,"Fox, savanna",Ethiopia,Debre Sīna,7213.55,2018-09-01
+552,"Gecko, barking",Indonesia,Emplak,9636.05,2018-08-20
+553,"Monkey, bleeding heart",China,Jiru,8771.3,2018-03-07
+554,Japanese macaque,Peru,Tapacocha,7112.8,2018-06-20
+555,Savannah deer (unidentified),Philippines,Tagdanua,7302.5,2018-11-17
+556,Common pheasant,China,Jingshan,5888.65,2018-09-25
+557,Miner's cat,China,Dongshi,5486.89,2018-05-25
+558,Baleen whale,Egypt,Banhā,4435.56,2019-02-14
+559,Cormorant (unidentified),Poland,Nowosielce,8059.92,2019-02-09
+560,Adouri (unidentified),China,Yengiawat,3476.94,2018-05-29
+561,Thomson's gazelle,Russia,Yelets,6058.94,2018-10-29
+562,"Phalarope, red",Ukraine,Banyliv,4045.15,2018-02-26
+563,"Lizard, blue-tongued",Indonesia,Bambor,4735.97,2018-06-29
+564,"Snake, tiger",Philippines,Kauswagan,3255.91,2018-10-14
+565,Southern sea lion,Poland,Czerniewice,5648.82,2018-12-15
+566,Downy woodpecker,Portugal,Santo Adrião Vizela,5833.98,2018-12-16
+567,Northern phalarope,Philippines,Limbalod,2893.84,2018-11-28
+568,"Lion, california sea",China,Heshi,2965.94,2019-01-16
+569,"Phalarope, northern",Thailand,Nakhon Ratchasima,8900.06,2019-01-30
+570,Long-tailed spotted cat,Sweden,Stockholm,3130.0,2019-01-19
+571,"Beaver, eurasian",China,Ehu,4794.42,2018-05-12
+572,Dabchick,Nicaragua,Las Sabanas,9316.05,2018-11-28
+573,Crested porcupine,United States,Tampa,714.19,2018-12-08
+574,Weeper capuchin,China,Yanjiang,2351.96,2018-07-23
+575,Aardwolf,China,Sujiazhuang,9011.11,2018-10-26
+576,"Kangaroo, brush-tailed rat",Ethiopia,Dembī Dolo,8213.04,2018-10-10
+577,Stone sheep,China,Dunhua,4028.17,2018-12-19
+578,Short-beaked echidna,China,Wanglinkou,1474.89,2018-06-19
+579,"Stork, white-necked",China,Qingshuihe,3370.12,2019-02-14
+580,"Curlew, black",Philippines,Binalonan,1875.06,2018-09-07
+581,"Dove, laughing",Russia,Ushumun,893.95,2018-08-14
+582,Collared peccary,Indonesia,Gandapura,5583.25,2018-08-21
+583,Common long-nosed armadillo,Russia,Ukhta,3111.24,2018-08-25
+584,Arboral spiny rat,Philippines,Camindangan,5999.28,2019-01-28
+585,Yellow-throated sandgrouse,Philippines,Tambulig,6022.24,2018-08-09
+586,African buffalo,North Korea,Namyang-dong,9751.92,2018-04-25
+587,Racer snake,Indonesia,Bunisari,4232.84,2018-08-03
+588,"Eagle, tawny",Russia,Timiryazevskiy,6784.59,2019-01-24
+589,Common ringtail,American Samoa,Aūa,577.86,2018-10-25
+590,"Spoonbill, european",Honduras,El Tablón,5623.83,2018-08-02
+591,Numbat,China,Xiwang,546.41,2018-09-07
+592,"Wallaby, river",Indonesia,Gunem,7855.15,2018-02-23
+593,"Pheasant, ring-necked",China,Tangnanzhen,1208.95,2018-07-03
+594,Bonnet macaque,Japan,Ageoshimo,5809.05,2018-12-05
+595,Swamp deer,China,Xinxian,4185.12,2018-09-10
+596,Ferruginous hawk,China,Doushan,4752.39,2018-08-29
+597,"Monitor, two-banded",France,Béthune,51.36,2018-09-24
+598,Barking gecko,Colombia,El Retorno,8065.63,2018-04-17
+599,Red-knobbed coot,France,Roscoff,6108.79,2019-02-19
+600,Little brown dove,Costa Rica,Paquera,1174.98,2018-03-30
+601,Vicuna,Russia,Semiluki,7561.21,2018-08-10
+602,White-throated robin,Armenia,Gyumri,8412.8,2018-06-14
+603,Roseate cockatoo,Philippines,Langob,7639.41,2018-08-24
+604,Cape raven,Russia,Cherkasskoye,6239.3,2018-04-08
+605,"Turkey, australian brush",Indonesia,Sukacai,471.52,2018-08-15
+606,"Skimmer, four-spotted",Paraguay,Itauguá,1751.17,2018-12-28
+607,"Duiker, common",Brazil,Ivoti,3341.65,2018-05-01
+608,"Cat, native",China,Dadamtu,9620.85,2018-08-15
+609,"Hawk, ferruginous",China,Huaiya,4939.08,2018-12-31
+610,"Dove, rock",China,Yangcun,6829.52,2018-03-24
+611,European badger,China,Songyuan,7222.63,2018-08-28
+612,Leadbeateri's ground hornbill,Morocco,Tilmi,2810.15,2018-03-09
+613,"Armadillo, seven-banded",China,Youfang,3419.82,2018-09-21
+614,Arboral spiny rat,Democratic Republic of the Congo,Kolwezi,8122.93,2018-09-19
+615,Malay squirrel (unidentified),Dominican Republic,Pizarrete,7063.13,2018-12-28
+616,"Gull, lava",Philippines,Payabon,214.64,2018-10-08
+617,Blesbok,China,Weiyanggong,9613.17,2018-03-20
+618,Stanley crane,Israel,Dimona,7598.54,2018-05-01
+619,Wattled crane,Macedonia,Липково,9339.32,2018-09-15
+620,Eastern grey kangaroo,Poland,Rudna Mała,4445.91,2018-12-01
+621,"Butterfly, canadian tiger swallowtail",Chile,Puerto Natales,2618.76,2018-06-13
+622,"Bird, pied butcher",Cuba,Puerto Padre,8911.46,2018-08-30
+623,Barking gecko,Czech Republic,Všeruby,6619.12,2018-10-12
+624,"Robin, white-throated",Tanzania,Pangani,3219.77,2018-07-23
+625,Egyptian cobra,Thailand,Sam Phran,1761.44,2018-09-26
+626,Long-finned pilot whale,Czech Republic,Tvrdonice,2554.09,2018-04-25
+627,"Heron, gray",China,Nuoxizhi,3373.73,2018-10-17
+628,"Hornbill, red-billed",Indonesia,Romba,4119.42,2018-11-14
+629,"Snake, western patch-nosed",United States,Oklahoma City,8851.77,2018-08-04
+630,"Catfish, blue",China,Sanshan,6085.93,2019-02-13
+631,"Starling, cape",China,Malianchuan,4995.1,2018-09-01
+632,Ground monitor (unidentified),Kenya,Kipini,4854.56,2018-11-21
+633,"Iguana, land",Portugal,Macedo de Cavaleiros,7795.78,2018-10-13
+634,White-necked stork,China,Jiaodai,9223.41,2018-05-11
+635,Uinta ground squirrel,Albania,Kajan,8875.81,2018-02-22
+636,Greater kudu,Czech Republic,Vroutek,4899.56,2018-04-08
+637,"Crab, red lava",China,Zhongzi,8194.04,2018-09-12
+638,Bahama pintail,Ukraine,Osypenko,3205.06,2019-02-16
+639,"Brocket, red",Vietnam,Trai Ngau,1342.31,2019-01-16
+640,Hoffman's sloth,Russia,Oktyabr’skiy,5707.86,2018-04-12
+641,"Lemur, brown",China,Longxing,7415.97,2018-07-09
+642,American crow,China,Huochang,884.0,2018-05-22
+643,"Screamer, crested",Philippines,San Vicente,2747.78,2018-09-04
+644,Striated heron,Mexico,Lazaro Cardenas,4965.51,2019-02-11
+645,Black and white colobus,Germany,Hannover,8022.01,2018-11-24
+646,Laughing kookaburra,Russia,Pyatnitskoye,4487.08,2018-11-02
+647,"Monkey, rhesus",Syria,As Sawdā,5468.19,2018-05-20
+648,White-cheeked pintail,China,Pingling,5615.07,2018-03-09
+649,Chacma baboon,Morocco,Tizguine,5738.0,2018-06-07
+650,"Lion, australian sea",United States,Garden Grove,20.76,2018-04-06
+651,"Legaan, ground",Russia,Pregradnaya,9892.59,2018-07-18
+652,Barrows goldeneye,United States,Washington,9949.94,2018-11-24
+653,Giraffe,Zimbabwe,Lupane,961.83,2018-08-18
+654,Weeper capuchin,Philippines,Tagakpan,1527.01,2018-09-06
+655,Northern phalarope,Indonesia,Cibuah,3460.0,2018-03-20
+656,Uinta ground squirrel,Mongolia,Darhan,5989.01,2018-05-26
+657,Common long-nosed armadillo,China,Qingyuan,4900.3,2018-09-04
+658,"Owl, snowy",Syria,‘Ayn al Bayḑā,1671.57,2018-07-29
+659,"Rhea, greater",Thailand,Bang Racham,2920.13,2018-11-28
+660,Red squirrel,Japan,Imari,3722.43,2018-07-29
+661,Marine iguana,Japan,Ōmachi,6055.7,2018-05-03
+662,"Otter, small-clawed",Poland,Krajenka,99.79,2018-12-08
+663,"Hawk, ferruginous",Uzbekistan,Zafar,7141.5,2018-11-24
+664,Wood pigeon,Mauritius,Centre de Flacq,7170.58,2018-04-23
+665,"Stork, european",Niger,Matamey,1588.9,2018-11-26
+666,European shelduck,Indonesia,Jawa,2204.11,2018-05-07
+667,Meerkat,Indonesia,Buket Teukuh,8459.39,2018-12-17
+668,Steller sea lion,Serbia,Zrenjanin,4316.05,2018-05-29
+669,Seven-banded armadillo,Philippines,San Jose,1938.13,2018-06-23
+670,"Starling, red-shouldered glossy",China,Dahe,735.69,2019-01-03
+671,Little heron,China,Fenghua,2177.49,2018-07-19
+672,"Ibis, sacred",Colombia,Salgar,6783.05,2018-07-10
+673,Waved albatross,Lebanon,Zahlé,5094.92,2018-11-13
+674,"Camel, dromedary",United States,Boston,5403.92,2018-11-20
+675,"Lion, south american sea",Honduras,Sulaco,8840.84,2018-07-01
+676,Sulfur-crested cockatoo,Thailand,Chok Chai,8567.9,2019-01-10
+677,North American river otter,Portugal,Aroeira,3593.81,2018-09-18
+678,Black-fronted bulbul,China,Xiaolong,3309.86,2018-11-10
+679,"Hornbill, red-billed",Portugal,Estrada,7075.61,2018-02-23
+680,Red hartebeest,Colombia,Galapa,7980.98,2018-05-27
+681,"Wallaby, red-necked",Russia,Ust’-Labinsk,3732.65,2018-09-26
+682,Peregrine falcon,China,Luojiaping,7780.63,2019-02-12
+683,Northern elephant seal,Argentina,Arroyito,6598.22,2018-06-29
+684,Feral rock pigeon,Indonesia,Karangarjo,2436.49,2018-04-07
+685,"Squirrel, european red",Belarus,Hlybokaye,3089.76,2018-05-13
+686,"Lion, african",Russia,Korobitsyno,3302.73,2019-02-16
+687,Ringtail,Poland,Milicz,1248.34,2018-09-06
+688,"Skimmer, four-spotted",China,Linshui,1929.12,2018-09-14
+689,Blue crane,Canada,Mont-Saint-Hilaire,3857.7,2018-05-17
+690,Koala,China,Songping,5559.28,2018-04-29
+691,"Wallaby, tammar",China,Tadou,5943.93,2018-07-08
+692,Genoveva,China,Gutian,6057.54,2018-10-26
+693,"Spider, wolf",Indonesia,Kebonjaya,8780.44,2019-01-29
+694,"Boubou, southern",Mexico,Plan de Ayala,531.0,2019-02-10
+695,Greater roadrunner,Sweden,Hässleholm,8390.24,2018-09-27
+696,Cape Barren goose,Portugal,Mujães,9595.56,2018-04-18
+697,Chital,China,Jianlong,2380.31,2018-09-04
+698,House sparrow,Georgia,Lanchkhuti,3324.65,2018-10-28
+699,Cobra (unidentified),Sweden,Lidköping,6129.92,2019-01-23
+700,"Fox, savanna",Indonesia,Kotabaru Hilir,9889.71,2018-05-25
+701,Turtle (unidentified),Croatia,Jadranovo,5176.03,2018-10-20
+702,"Baboon, chacma",Dominican Republic,Juncalito Abajo,5772.95,2018-08-07
+703,Columbian rainbow boa,China,Shazikou,2635.49,2018-10-30
+704,"Stork, saddle-billed",China,Tengjia,8545.98,2018-08-27
+705,"Mynah, indian",Malaysia,Lahad Datu,1626.65,2019-01-19
+706,Savannah deer (unidentified),Hungary,Sopron,1001.15,2018-07-05
+707,"Monitor, water",Brazil,Cajati,6096.52,2018-03-15
+708,White-cheeked pintail,Yemen,Ad Dimnah,4779.45,2019-01-18
+709,Turkey vulture,Croatia,Tovarnik,3675.34,2018-02-22
+710,Cape fox,China,Marzhing,8753.46,2018-12-05
+711,"Wildebeest, blue",China,Yulong,2543.39,2018-03-24
+712,Boat-billed heron,China,Xinzha,8435.1,2018-02-27
+713,Grant's gazelle,France,Villefranche-sur-Mer,9974.88,2018-10-04
+714,"Kangaroo, brush-tailed rat",Poland,Sępopol,1370.05,2018-11-04
+715,"Vulture, white-headed",Philippines,Santa Monica,7237.56,2018-04-09
+716,Red-legged pademelon,France,Perpignan,1006.27,2018-12-19
+717,"Lion, galapagos sea",China,Dajianchang,7032.47,2019-01-26
+718,Sugar glider,Kazakhstan,Komsomolets,9167.83,2018-12-26
+719,Malay squirrel (unidentified),United States,Asheville,8877.07,2018-02-25
+720,European stork,Sweden,Stockholm,6342.53,2019-02-07
+721,Violet-eared waxbill,Czech Republic,Zlín,7972.0,2018-03-31
+722,Dabchick,Czech Republic,Hostěradice,3166.96,2018-12-20
+723,Crested barbet,Indonesia,Balengbeng,1910.49,2018-02-27
+724,"Bird, red-billed tropic",Czech Republic,Bakov nad Jizerou,9943.62,2019-01-21
+725,Common eland,Japan,Hamanoichi,673.16,2018-03-20
+726,"Duck, comb",Portugal,Safara,3845.66,2018-06-12
+727,"Vulture, egyptian",Albania,Kolç,6065.24,2018-10-29
+728,"Sheep, american bighorn",Indonesia,Sukaharja,5302.7,2018-07-16
+729,"Crab, red lava",Indonesia,Gerdu,4235.43,2018-09-06
+730,South American meadowlark (unidentified),Portugal,Terrugem,159.59,2018-07-04
+731,"Vulture, lappet-faced",Belarus,Khotsimsk,8848.92,2018-05-22
+732,"Spurfowl, yellow-necked",Vietnam,Đắk Hà,5665.29,2018-12-01
+733,Yellow-necked spurfowl,Brazil,Niquelândia,2256.99,2018-12-12
+734,Striped dolphin,Indonesia,Jandir,8566.09,2019-02-17
+735,Yellow-crowned night heron,Moldova,Ungheni,3919.06,2019-01-21
+736,Moose,Greece,Skiáthos,1450.62,2018-06-08
+737,Southern white-crowned shrike,Indonesia,Banjar Timbrah,1363.31,2018-08-13
+738,Numbat,Brazil,Igrejinha,7882.87,2019-01-17
+739,Green-winged trumpeter,Sweden,Falun,9019.09,2019-02-18
+740,"Monkey, rhesus",China,Tongmuluo,3469.95,2018-11-13
+741,Feathertail glider,Costa Rica,Salitral,4077.0,2018-06-14
+742,Vine snake (unidentified),Russia,Terney,5309.49,2018-05-10
+743,Blue waxbill,China,Taoxi,954.35,2018-11-17
+744,Horned lark,China,Guoduwan,4589.47,2018-11-02
+745,"Lourie, grey",Czech Republic,Vysoké Mýto,8934.76,2018-04-26
+746,Hawk-headed parrot,China,Xianyan,5610.64,2018-08-05
+747,Brown and yellow marshbird,Brazil,Iturama,933.08,2018-04-15
+748,"Crow, pied",France,Marseille,463.34,2018-03-20
+749,"Boa, columbian rainbow",France,Lorient,4127.2,2018-05-31
+750,Common wolf,Malaysia,Johor Bahru,1448.72,2018-06-04
+751,Cuis,Croatia,Lepoglava,4661.33,2018-09-06
+752,"Mynah, indian",China,Yangjia,7398.02,2019-02-01
+753,"Vulture, white-headed",Madagascar,Tsiombe,4626.54,2019-01-20
+754,Gray duiker,Mexico,Adolfo Lopez Mateos,6912.6,2018-07-22
+755,"Whale, long-finned pilot",Russia,Yurla,2106.46,2018-08-14
+756,European shelduck,China,Baini,5041.1,2018-10-18
+757,Vine snake (unidentified),Poland,Krasne,947.76,2018-05-03
+758,American beaver,Poland,Pawonków,9740.49,2018-04-29
+759,"Macaw, scarlet",China,Zhengguo,5760.56,2019-01-26
+760,Grant's gazelle,Sweden,Trollhättan,6926.52,2019-01-06
+761,Arctic tern,China,Lukou,194.29,2018-11-01
+762,"Crow, house",Ukraine,Pavlohrad,8240.79,2019-02-16
+763,"Bulbul, black-fronted",Isle of Man,Laxey,3882.64,2018-05-10
+764,Arctic ground squirrel,Indonesia,Darungan,3116.43,2019-02-13
+765,Dusky rattlesnake,Indonesia,Karangwaru,6951.56,2018-12-01
+766,Desert spiny lizard,Venezuela,Alto Barinas,5985.79,2018-06-07
+767,"Turtle, long-necked",Indonesia,Pergan,2098.07,2018-08-06
+768,Cottonmouth,Poland,Brochów,8123.89,2018-12-19
+769,"Creeper, black-tailed tree",Italy,Mestre,3138.44,2019-01-06
+770,Red-billed tropic bird,Haiti,Verrettes,5049.52,2018-05-02
+771,Blue-tongued skink,China,Jinzao,2229.51,2018-03-12
+772,"Python, carpet",Finland,Savonranta,1558.37,2018-05-12
+773,"Otter, canadian river",Samoa,Falefa,1445.14,2018-10-08
+774,Waved albatross,China,Outing,2979.58,2018-07-02
+775,"Civet, small-toothed palm",China,Shangde,1213.99,2018-08-10
+776,Indian peacock,China,Wan’an,4281.91,2019-01-07
+777,"Spoonbill, white",Guatemala,San Agustín Acasaguastlán,4764.61,2018-04-23
+778,Four-striped grass mouse,Portugal,Gominhães,2349.01,2019-01-15
+779,"Cockatoo, roseate",Indonesia,Pakapasan Ilir,5291.75,2018-03-27
+780,Spotted deer,Indonesia,Wewit,9890.24,2018-03-08
+781,Black-cheeked waxbill,Indonesia,Werang,1496.6,2018-08-10
+782,Eastern boa constrictor,China,Libao,8576.99,2019-01-11
+783,"Jackal, silver-backed",China,Wenquan,1577.11,2019-02-14
+784,Bobcat,Czech Republic,Žeravice,9509.36,2018-09-14
+785,Brush-tailed phascogale,China,Delingha,1731.52,2018-08-24
+786,King vulture,Guatemala,Esquipulas,8784.86,2018-04-02
+787,"Seal, harbor",Cameroon,Meïganga,2671.73,2018-11-05
+788,Eurasian beaver,United States,Lakeland,1054.01,2018-09-13
+789,Southern elephant seal,Indonesia,Sungai Raya,1601.67,2018-09-12
+790,Dassie,Russia,Neftegorsk,8746.59,2018-08-30
+791,Southern tamandua,Brazil,Sabinópolis,1211.29,2018-05-25
+792,Red-necked phalarope,Russia,Kyzyl,7747.06,2019-02-16
+793,"Turkey, australian brush",Thailand,Nong Bua,3174.61,2018-04-27
+794,Squirrel glider,Brazil,Brusque,470.04,2018-07-13
+795,Caracara (unidentified),China,Huanghua,2140.44,2018-08-22
+796,"Glider, sugar",China,Gar,5382.81,2018-12-07
+797,"Avocet, pied",Botswana,Mosopa,3610.16,2018-12-03
+798,"Bird, black-throated butcher",Sweden,Sandviken,1254.01,2019-01-28
+799,"Sloth, two-toed",Argentina,Alderetes,9126.25,2019-01-08
+800,"Leopard, indian",Sweden,Sandviken,8477.57,2018-06-11
+801,"Jaeger, long-tailed",Russia,Inozemtsevo,9784.67,2018-11-02
+802,Sage grouse,Indonesia,Sukorejo,8955.73,2018-04-23
+803,"White-eye, pale",Germany,Köln,766.85,2019-02-10
+804,"Peccary, collared",Syria,Bāniyās,2083.19,2018-07-15
+805,Meerkat,Russia,Khandagayty,5596.05,2018-04-24
+806,Royal tern,Poland,Luzino,9895.31,2018-05-14
+807,"Egret, snowy",Vietnam,Anh Son,8466.38,2018-04-26
+808,"Squirrel, eastern fox",Tuvalu,Tanrake Village,1199.42,2018-05-04
+809,Desert spiny lizard,Germany,Hamburg Harvestehude,214.75,2018-10-16
+810,"Duck, comb",Poland,Pecna,4527.63,2018-10-06
+811,Golden brush-tailed possum,Canada,Pasadena,9328.56,2019-01-09
+812,Great egret,Mexico,Benito Juarez,9209.37,2018-06-14
+813,"Viper, egyptian",China,Touzao,9803.14,2018-11-27
+814,Galapagos albatross,Indonesia,Cinyumput,9615.72,2018-07-05
+815,"Squirrel, grey-footed",Colombia,Villavicencio,6605.56,2018-04-02
+816,"Bird, magnificent frigate",Russia,Vygonichi,6096.48,2018-05-02
+817,"Spoonbill, european",El Salvador,Concepción de Ataco,1585.03,2018-05-12
+818,"Snake, eastern indigo",Singapore,Singapore,3093.01,2018-11-10
+819,"Bear, sloth",China,Dongjie,8641.07,2018-05-13
+820,Eastern fox squirrel,Indonesia,Teminabuan,5482.88,2019-01-11
+821,Sandhill crane,China,Hujiaba,4140.41,2018-09-08
+822,"Heron, yellow-crowned night",Cape Verde,Praia,8043.68,2018-04-27
+823,"Monkey, vervet",Ukraine,Makariv,5782.66,2018-11-08
+824,Mandras tree shrew,Indonesia,Jambangan,5520.36,2018-07-17
+825,White-fronted bee-eater,Canada,Manning,4998.84,2018-04-24
+826,"Squirrel, indian giant",Brazil,Jeremoabo,7760.69,2018-12-02
+827,Common green iguana,China,Xishan,6032.32,2019-02-08
+828,Peregrine falcon,Russia,Nizhniy Dzhengutay,141.92,2018-12-16
+829,"Shrike, southern white-crowned",Japan,Otofuke,7568.42,2019-01-29
+830,Asian false vampire bat,Sweden,Västerås,3438.68,2018-08-01
+831,Eastern boa constrictor,Indonesia,Wonda,6208.66,2018-04-04
+832,Capybara,United States,Lynn,3982.8,2018-08-04
+833,"Tortoise, indian star",Peru,Andaray,2719.0,2018-09-06
+834,White-cheeked pintail,Greece,Ágio Pnévma,9296.17,2018-06-03
+835,"Dunnart, fat-tailed",Indonesia,Kadugedong,8478.2,2018-10-07
+836,Eastern cottontail rabbit,Lithuania,Plateliai,1477.85,2018-10-02
+837,"Rattlesnake, eastern diamondback",China,Baojia,4118.21,2018-11-07
+838,"Kangaroo, black-faced",Serbia,Kruševac,3963.89,2018-05-03
+839,Red-shouldered glossy starling,Honduras,Casa Quemada,5606.64,2018-08-04
+840,Black bear,Philippines,Malicboy,4612.56,2018-03-13
+841,Cook's tree boa,Uganda,Pader Palwo,9151.54,2018-11-02
+842,Collared lemming,Cyprus,Émpa,8107.05,2018-10-25
+843,Arctic hare,Russia,Liski,7906.34,2019-02-12
+844,"Possum, pygmy",Greece,Portariá,2548.48,2018-12-22
+845,Comb duck,China,Gar,1735.76,2018-07-08
+846,Violet-eared waxbill,Cayman Islands,East End,6971.6,2018-04-23
+847,Blue and gold macaw,Czech Republic,Benešov,5862.29,2018-02-28
+848,Peregrine falcon,Poland,Regimin,9620.97,2018-03-23
+849,"Pintail, white-cheeked",Croatia,Dubrava,9835.31,2018-11-28
+850,"Magpie, black-backed",Colombia,Bello,7466.9,2018-10-09
+851,Ground monitor (unidentified),Indonesia,Permas,4348.59,2018-06-12
+852,Agile wallaby,Slovakia,Bratislava,5302.56,2019-01-02
+853,"Macaw, green-winged",Peru,Colcabamba,408.14,2018-04-30
+854,"Pheasant, common",China,Paingar,5625.18,2018-09-22
+855,Violet-eared waxbill,Portugal,Tamel,8756.9,2018-08-23
+856,Gray rhea,Croatia,Jesenice,8309.39,2018-09-14
+857,"Turkey, wild",Thailand,Wiphawadi,6789.39,2019-02-05
+858,European wild cat,Canada,Bonnyville,4554.87,2018-03-04
+859,Little cormorant,Indonesia,Bebae,8733.6,2018-09-30
+860,Carpet snake,Russia,Otradnoye,7065.61,2018-12-21
+861,Asian openbill,Russia,Pil’na,5298.39,2018-06-22
+862,Salmon pink bird eater tarantula,Brazil,Além Paraíba,4784.26,2019-01-04
+863,"Kingfisher, malachite",China,Sanhe,2812.57,2018-08-05
+864,"Tortoise, galapagos",Vietnam,Thị Trấn Mộc Châu,9660.69,2018-10-20
+865,Pig-tailed macaque,South Korea,Changsu,7619.23,2018-05-17
+866,Tayra,Colombia,La Uvita,5343.86,2018-06-08
+867,"Meerkat, red",Egypt,Arish,4913.72,2018-05-08
+868,Puku,France,Castelsarrasin,4713.31,2018-09-10
+869,Chameleon (unidentified),Tanzania,Shinyanga,4095.97,2018-10-14
+870,Clark's nutcracker,Russia,Golynki,8308.57,2018-11-06
+871,Gerenuk,Jordan,Ar Ramthā,296.44,2018-10-09
+872,"Cormorant, king",Philippines,Baon,8189.88,2018-11-18
+873,Short-nosed bandicoot,Ukraine,Uzyn,9233.04,2018-03-23
+874,"Macaque, pig-tailed",Poland,Wąpielsk,8072.47,2018-05-21
+875,Mountain duck,Palestinian Territory,Bayt Maqdūm,4957.91,2018-09-09
+876,Little grebe,Netherlands,IJmuiden,6201.31,2018-11-30
+877,"Eagle, bald",China,Jinghai,5462.54,2018-11-25
+878,"Bleu, red-cheeked cordon",Malaysia,Kota Kinabalu,9021.5,2018-08-09
+879,"Finch, common melba",Iran,Akbarābād,1406.48,2018-08-20
+880,Gray heron,Philippines,Upper San Mateo,6852.5,2019-01-04
+881,Grant's gazelle,Spain,Palma De Mallorca,6870.8,2018-06-04
+882,"Shelduck, european",Israel,‘Afula ‘Illit,9562.76,2018-09-08
+883,Llama,Philippines,Bascaron,1352.67,2018-11-06
+884,"Plover, three-banded",Netherlands,Dongen,4860.7,2018-11-14
+885,"Flamingo, chilean",Macedonia,Morani,2628.15,2018-11-06
+886,"Crane, stanley",China,Qilong,9809.05,2018-10-11
+887,"Mynah, common",Ivory Coast,Abengourou,3394.56,2018-10-29
+888,Red deer,Indonesia,Rentung,6497.2,2018-11-11
+889,African wild cat,South Korea,T’aebaek,4903.2,2018-06-30
+890,Horned rattlesnake,United States,Baton Rouge,5525.34,2019-01-26
+891,"Dove, white-winged",China,Meiyuan,7802.65,2018-09-19
+892,Kirk's dik dik,Brazil,Gravataí,4936.5,2018-02-28
+893,Red lava crab,Portugal,Portela,4319.01,2018-05-30
+894,"Insect, stick",Czech Republic,Černošice,5142.1,2018-03-29
+895,Worm snake (unidentified),Sweden,Stockholm,3180.33,2018-11-05
+896,"Lapwing, southern",Thailand,Mae Chan,465.93,2018-07-04
+897,"Gull, southern black-backed",Italy,Catania,871.37,2018-08-14
+898,Smith's bush squirrel,Panama,Llano Largo,9759.37,2018-11-04
+899,Plains zebra,Bahrain,Al Muharraq,6442.78,2018-12-21
+900,"Eagle, pallas's fish",Palestinian Territory,Al Ḩīlah,9680.49,2018-06-24
+901,Warthog,China,Huangshan,1603.29,2018-03-28
+902,"Sparrow, house",China,Hejia,7546.47,2018-06-08
+903,Caribou,Indonesia,Batojaran,9602.66,2019-01-27
+904,"Oryx, beisa",Botswana,Bokaa,4222.79,2018-09-07
+905,"Egret, snowy",Indonesia,Kasreman Wetan,3133.03,2018-05-20
+906,"Jackal, asiatic",China,Erdu,2107.76,2018-07-29
+907,"Rabbit, eastern cottontail",Nicaragua,San José de los Remates,4349.77,2018-07-03
+908,"Vulture, bengal",Philippines,Carriedo,6970.46,2018-06-15
+909,Common pheasant,China,Wangdun,5017.46,2018-10-14
+910,"Kangaroo, red",Czech Republic,Slavonice,254.43,2018-08-30
+911,"Dove, galapagos",Brazil,Bela Vista,7764.36,2018-05-22
+912,"Stork, white",Ukraine,Boyarka,4905.1,2018-04-08
+913,Malachite kingfisher,Mauritius,Saint Hubert,7734.1,2018-04-22
+914,"Rattlesnake, horned",Indonesia,Cibunar,331.92,2018-06-15
+915,Great cormorant,Indonesia,Nangahale,8180.39,2018-03-15
+916,"Oystercatcher, blackish",Indonesia,Tanggul Wetan,4105.23,2018-05-02
+917,"Tapir, brazilian",Albania,Mollas,4450.38,2018-11-15
+918,Chilean flamingo,China,Lishu,7139.36,2018-10-31
+919,White-rumped vulture,South Korea,Sindong,4104.96,2018-06-27
+920,Wild boar,China,Sangba,5442.61,2018-12-15
+921,"Hartebeest, coke's",Bolivia,Sotomayor,3468.07,2018-06-10
+922,Blue-faced booby,Canada,Cookshire-Eaton,7918.03,2018-08-15
+923,"Boar, wild",Japan,Katsuta,3777.27,2018-06-24
+924,Platypus,Indonesia,Waingapu,7263.01,2018-11-17
+925,Caracal,Serbia,Stari Banovci,6820.84,2018-12-30
+926,"Weaver, lesser masked",Nicaragua,La Paz de Oriente,1323.34,2018-12-15
+927,Common mynah,France,Tours,5318.23,2019-02-01
+928,Stanley crane,Croatia,Brodarica,2442.72,2018-11-03
+929,Roan antelope,China,Tanglag,1563.31,2018-08-13
+930,"Phascogale, brush-tailed",Philippines,Unidad,4191.34,2018-08-29
+931,"Bulbul, black-eyed",Republic of the Congo,Kayes,238.28,2018-06-07
+932,Kongoni,North Korea,Hyesan-dong,4677.67,2019-01-25
+933,Red-capped cardinal,France,Courtaboeuf,6454.18,2018-05-17
+934,"Alligator, american",Yemen,Al Misrākh,5234.51,2018-12-06
+935,"Lion, california sea",Japan,Tsushima,1237.89,2018-10-20
+936,Brush-tailed phascogale,Indonesia,Munduk,980.49,2018-05-11
+937,"Quoll, spotted-tailed",Brazil,Rolante,6002.77,2018-11-11
+938,"Ibis, glossy",Chile,Hacienda La Calera,2591.51,2018-03-09
+939,Fork-tailed drongo,Indonesia,Manalu,3528.54,2018-12-19
+940,Pacific gull,Argentina,Villa de Soto,6909.24,2018-07-16
+941,Black-eyed bulbul,China,Yushu,1820.47,2018-04-27
+942,"Cormorant, little",Czech Republic,Lešná,3252.81,2018-10-18
+943,Four-horned antelope,Vietnam,Ia Kha,6393.33,2018-12-27
+944,Spotted-tailed quoll,Japan,Hitachi,9994.82,2018-12-29
+945,"Anteater, giant",Indonesia,Banjar Sengguan,4405.68,2019-01-13
+946,Sea birds (unidentified),China,Wuchagou,8607.78,2018-09-16
+947,"Legaan, Monitor (unidentified)",China,Jiangwei,2113.15,2018-10-05
+948,Ring-tailed lemur,Indonesia,Ciomas,9054.26,2018-06-17
+949,"Hawk, galapagos",Sweden,Vällingby,2676.27,2018-03-23
+950,Spotted deer,Russia,Olenegorsk,7636.84,2018-12-29
+951,White-fronted bee-eater,Brazil,Videira,5624.07,2018-08-10
+952,"Roadrunner, greater",Jordan,‘Ajlūn,7099.16,2018-10-05
+953,"Waterbuck, defassa",Afghanistan,Khāsh,1312.39,2018-07-23
+954,Crowned hawk-eagle,Croatia,Žrnovo,8199.94,2019-01-30
+955,"Beaver, north american",Thailand,Taling Chan,189.25,2018-12-18
+956,Coyote,Philippines,Bungsuan,6956.81,2018-09-16
+957,"Hen, sage",Russia,Sheregesh,2505.24,2018-10-29
+958,Small-spotted genet,Indonesia,Watoona,2693.09,2018-08-01
+959,Woylie,Czech Republic,Vnorovy,5166.12,2019-02-06
+960,"Lemur, grey mouse",China,Haodian,6233.35,2018-08-11
+961,Red-headed woodpecker,China,Gaotieling,2845.43,2018-12-15
+962,Emerald green tree boa,Iraq,Al Miqdādīyah,3019.68,2018-10-09
+963,"Eagle, pallas's fish",Brazil,Nazaré,1277.29,2018-08-30
+964,"Trumpeter, green-winged",Venezuela,Yaguaraparo,5626.06,2018-10-20
+965,Common pheasant,Uruguay,Fray Bentos,1686.02,2018-08-15
+966,Little brown bat,Russia,Uzlovaya,7894.66,2018-05-01
+967,Great white pelican,Indonesia,Kertosari,2900.18,2018-09-23
+968,Golden jackal,China,Maying,1422.37,2018-07-08
+969,"Racer, american",Iraq,Ramadi,8049.23,2018-04-15
+970,"Buffalo, american",Norway,Oslo,6038.13,2018-05-20
+971,Snake (unidentified),China,Liping,9507.06,2018-05-27
+972,Coqui francolin,China,Nanhai,4573.38,2018-09-14
+973,Tawny frogmouth,Portugal,Seixas,157.2,2018-05-19
+974,"Stork, saddle-billed",Slovenia,Vuzenica,1679.6,2018-08-03
+975,"Elephant, asian",Russia,Khasavyurt,9232.11,2018-05-01
+976,"Screamer, crested",China,Hongxing,1230.15,2018-05-07
+977,"Colobus, white-mantled",China,Xiaofayi,2549.87,2018-05-02
+978,"Cormorant, little",Mexico,San Isidro,7329.18,2018-12-29
+979,Jaguarundi,Canada,Peachland,7479.44,2018-09-22
+980,Crab-eating raccoon,China,Shijing,686.1,2018-11-16
+981,Butterfly (unidentified),Greece,Avlónas,9182.5,2018-10-12
+982,Black swan,Belarus,Enyerhyetykaw,5385.56,2018-12-27
+983,"Cockatoo, sulfur-crested",Bulgaria,Troyan,2331.76,2018-05-29
+984,Asian false vampire bat,Czech Republic,Doloplazy,9624.92,2018-06-17
+985,Common dolphin,Sierra Leone,Pendembu,861.21,2019-02-19
+986,"Screamer, southern",Portugal,Alvega,2954.58,2018-09-24
+987,"Oryx, beisa",Kazakhstan,Embi,5855.03,2018-09-24
+988,Red-billed hornbill,Czech Republic,Břeclav,8156.34,2018-05-29
+989,"Glider, feathertail",Thailand,At Samat,9350.39,2018-08-16
+990,Vine snake (unidentified),China,Yangsi,3802.58,2019-01-13
+991,"Butterfly, canadian tiger swallowtail",Niger,Zinder,8626.09,2019-01-07
+992,"Marmot, hoary",Philippines,Mianay,2385.39,2018-10-04
+993,Magistrate black colobus,France,Paris 16,5634.13,2018-10-07
+994,European shelduck,United States,Trenton,5755.81,2018-11-18
+995,"Hedgehog, south african",Russia,Medvedok,6242.83,2018-07-11
+996,Indian giant squirrel,Indonesia,Dresi Wetan,9160.37,2018-08-10
+997,Sacred ibis,Philippines,Tangal,4642.33,2018-04-19
+998,Groundhog,Tanzania,Nyangao,2358.17,2018-05-25
+999,Grant's gazelle,East Timor,Liquica,5742.72,2018-04-05
+1000,"Snake, western patch-nosed",Russia,Rybnoye,4985.33,2018-07-29
