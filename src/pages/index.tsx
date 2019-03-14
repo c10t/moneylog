@@ -1,5 +1,6 @@
 import * as React from 'react'
 import HTMLHead from '../components/html-head'
+import LineChart from '../components/molecules/charts/line-chart'
 import '../layouts/index.css'
 
 export default class Index extends React.Component<{}, {}> {
@@ -7,7 +8,12 @@ export default class Index extends React.Component<{}, {}> {
     return (
       <>
         <HTMLHead></HTMLHead>
-        <div className="container">
+        <section className="section">
+          <div className="container">
+            <LineChart />
+          </div>
+        </section>
+        {/*
           <article className="message">
             <div className="message-header">
               <p>Hello World</p>
@@ -21,7 +27,7 @@ export default class Index extends React.Component<{}, {}> {
     id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
             </div>
           </article>
-        </div>
+        */}
       </>
     )
   }
