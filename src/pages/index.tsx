@@ -1,6 +1,6 @@
 import * as React from 'react'
 import HTMLHead from '../components/html-head'
-import LineChart from '../components/molecules/charts/line-chart'
+import LineChart from '../components/molecules/charts/bar-chart'
 import '../layouts/index.css'
 
 export default class Index extends React.Component<{}, {}> {
