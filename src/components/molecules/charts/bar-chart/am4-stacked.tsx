@@ -7,11 +7,29 @@ import am4themes_kelly from '@amcharts/amcharts4/themes/kelly'
 am4core.useTheme(am4themes_animated);
 am4core.useTheme(am4themes_kelly);
 
-class Am4StackedBar extends React.Component {
+export interface StackedBarRecord {
+  x: string
+  stacked: { [label: string]: number }
+}
+
+export interface StackedBarHeader {
+  xLabel: string
+  xTitle: string
+  yTitle: string
+  stackedLabels: Array<{label: string, title: string}>
+}
+
+export interface StackedBarProps {
+  head: StackedBarHeader
+  data: StackedBarRecord[]
+}
+
+class Am4StackedBar extends React.Component<StackedBarProps> {
   private chart?: am4charts.XYChart
 
   componentDidMount() {
-    this.chart = createChart()
+    const { head, data } = this.props
+    this.chart = createChart(head, data)
   }
 
   componentWillUnmount() {
@@ -27,40 +45,34 @@ class Am4StackedBar extends React.Component {
   }
 }
 
-const createChart = (): am4charts.XYChart => {
+const createChart = (head: StackedBarHeader, data: StackedBarRecord[]): am4charts.XYChart => {
   let chart = am4core.create("chartdiv", am4charts.XYChart)
 
-  chart.data = mockData
+  chart.data = data.map(record => ({
+      [head.xLabel]: record.x, ...record.stacked
+  }))
+
+  const { xLabel, xTitle, yTitle, stackedLabels } = head
 
   let categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis())
-  categoryAxis.dataFields.category = "country"
-  categoryAxis.title.text = "Local country offices"
+  categoryAxis.dataFields.category = xLabel
+  categoryAxis.title.text = xTitle
   categoryAxis.renderer.grid.template.location = 0
   categoryAxis.renderer.minGridDistance = 20
 
   let valueAxis = chart.yAxes.push(new am4charts.ValueAxis())
-  valueAxis.title.text = "Expenditure (M)"
+  valueAxis.title.text = yTitle
 
-  let series = chart.series.push(new am4charts.ColumnSeries())
-  series.dataFields.valueY = "research"
-  series.dataFields.categoryX = "country"
-  series.name = "Research"
-  series.tooltipText = "{name}: [bold]{valueY}[/]"
-  series.stacked = true
-
-  let series2 = chart.series.push(new am4charts.ColumnSeries())
-  series2.dataFields.valueY = "marketing"
-  series2.dataFields.categoryX = "country"
-  series2.name = "Marketing"
-  series2.tooltipText = "{name}: [bold]{valueY}[/]"
-  series2.stacked = true
-
-  let series3 = chart.series.push(new am4charts.ColumnSeries())
-  series3.dataFields.valueY = "sales"
-  series3.dataFields.categoryX = "country"
-  series3.name = "Sales"
-  series3.tooltipText = "{name}: [bold]{valueY}[/]"
-  series3.stacked = true
+  stackedLabels.forEach(({label, title}) => {
+    let series = {
+      [label]: chart.series.push(new am4charts.ColumnSeries())
+    }
+    series[label].dataFields.valueY = label
+    series[label].dataFields.categoryX = xLabel
+    series[label].name = title
+    series[label].tooltipText = '{name}: [bold]{valueY}[/]'
+    series[label].stacked = true
+  })
 
   chart.cursor = new am4charts.XYCursor()
 
@@ -68,50 +80,3 @@ const createChart = (): am4charts.XYChart => {
 }
 
 export default Am4StackedBar
-
-const mockData = [{
-  "country": "Lithuania",
-  "research": 501.9,
-  "marketing": 250,
-  "sales": 199
-}, {
-  "country": "Czech Republic",
-  "research": 301.9,
-  "marketing": 222,
-  "sales": 251
-}, {
-  "country": "Ireland",
-  "research": 201.1,
-  "marketing": 170,
-  "sales": 199
-}, {
-  "country": "Germany",
-  "research": 165.8,
-  "marketing": 122,
-  "sales": 90
-}, {
-  "country": "Australia",
-  "research": 139.9,
-  "marketing": 99,
-  "sales": 252
-}, {
-  "country": "Austria",
-  "research": 128.3,
-  "marketing": 85,
-  "sales": 84
-}, {
-  "country": "UK",
-  "research": 99,
-  "marketing": 93,
-  "sales": 142
-}, {
-  "country": "Belgium",
-  "research": 60,
-  "marketing": 50,
-  "sales": 55
-}, {
-  "country": "The Netherlands",
-  "research": 50,
-  "marketing": 42,
-  "sales": 25
-}]
