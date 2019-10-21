@@ -7,3 +7,6 @@ public/
 # project specific
 data/*
 !.gitkeep
+
+work/*
+!.gitkeep
