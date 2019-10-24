@@ -4,6 +4,9 @@ node_modules
 public/
 .cache
 
+# OS
+.DS_Store
+
 # project specific
 data/*
 !.gitkeep
